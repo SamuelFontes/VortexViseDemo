@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "VortexVise.Web.dll",
   "resources": {
-    "hash": "sha256-DW72nct3jpT7A8/WeVsRByOKwRvqnJTmhm6zH+XCzPg=",
+    "hash": "sha256-5smuyg9sUvZuVIbBzdogvkpXJVJpZDhx/4hu8tHkkPc=",
     "jsModuleNative": {
-      "dotnet.native.js": "sha256-dcXtikCdCv7cGCRY7eJRNx80m7oE1rgk7sDt4XA5S5Y="
+      "dotnet.native.js": "sha256-5nNDHFG0MZu5nZHL6Cl4Mx4Zuy//fAw77rCrX74lgk8="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-R8NrW+zu50EVI9O5ebBBP0Pf4oUlicSGd0Pw4AlcHfo="
+      "dotnet.native.wasm": "sha256-hdAy4RZMrNZoJVqI2DKymDEPWt4W7ImHN9Z9iohyK8E="
     },
     "assembly": {
       "Raylib-cs.wasm": "sha256-k4EJNAZEYyi97MpXlVObptQtU6vGzicJ2dspOhT54Ps=",
