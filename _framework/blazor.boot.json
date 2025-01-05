@@ -1,0 +1,364 @@
+{
+  "mainAssemblyName": "VortexVise.Web.dll",
+  "resources": {
+    "hash": "sha256-TPwSFmMxYuqjYACO3fXglYMDpujaxyK2vV0/PuAYK/4=",
+    "jsModuleNative": {
+      "dotnet.native.js": "sha256-PZqx+BKQFjn1juUZFT6jqrttWzMVgFV5p7NBUQxHFH4="
+    },
+    "jsModuleRuntime": {
+      "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
+    },
+    "wasmNative": {
+      "dotnet.native.wasm": "sha256-VD320Z+n4XO7LrGn15Vbg3Wp464DiL9wyIewPeQ5/EQ="
+    },
+    "assembly": {
+      "Raylib-cs.wasm": "sha256-k4EJNAZEYyi97MpXlVObptQtU6vGzicJ2dspOhT54Ps=",
+      "System.Collections.Concurrent.wasm": "sha256-zKn+b5/438yxIRAmDi/S7rh8BfgVR6Pb6p6BmxC0w0U=",
+      "System.Collections.wasm": "sha256-1KLNSkQ2C7sCv6gQlIOLMHhswB35x+gMW9w0gm5RkBw=",
+      "System.ComponentModel.Primitives.wasm": "sha256-XsGSPVWB80OK3roCcL/8Tg0LMWPofzupKMhqavbiUDI=",
+      "System.ComponentModel.TypeConverter.wasm": "sha256-SDj93Z/EV5Wdfj9sUDue3PKiiqVSBw7kbPBhb6PeagU=",
+      "System.Console.wasm": "sha256-ggtiKBTIx+31sYbzO5uuPVoNvCQgczwc0XUh9l+s/po=",
+      "System.Drawing.wasm": "sha256-VsQoMipoMreQAopkYYW3E9Mb3A1pP273l67qI8Am2Fk=",
+      "System.Drawing.Primitives.wasm": "sha256-tvnTK0cN7GQtCsDHVxabVuszMXgPV7vKQzIXztigS3o=",
+      "System.Linq.wasm": "sha256-Sfr846seqcIZXug9vTHlXkSO4+zEvTsDhbxc9XcClaI=",
+      "System.Memory.wasm": "sha256-wljhLZ23Y8PAsRGFKpCVBp6A6bB+ypLfOoS2W1znFnk=",
+      "System.Net.Http.wasm": "sha256-/Vr6YHf4A7AHgMHFFHGF8dhNZZyzgEXPh2JJ6Ne3VLU=",
+      "System.Net.Primitives.wasm": "sha256-EQW1/djPML5ZZNXCB34XPmY8IayA1Kko9P36zr5DqP8=",
+      "System.Net.Sockets.wasm": "sha256-mEJjmN3ws+zb4DzasmBv8IlEtbrzXl867P6MHL3uLNw=",
+      "System.ObjectModel.wasm": "sha256-/QxUVKqYzpiu/6j++e7q70AMkPUymiJWU5dBe1tB7hw=",
+      "System.Private.CoreLib.wasm": "sha256-XzK9FsX9N9mZaNzloHGSDmKN9b/VsFzXkeJ1bjE6VuQ=",
+      "System.Runtime.InteropServices.JavaScript.wasm": "sha256-cheUJQs03G66CQ1H4NRzDWaAW076nZaUKHpmDr7G2lE=",
+      "System.Text.Encodings.Web.wasm": "sha256-MI/4cqYPS/lqSn1CEWTLLJGbSQrvHxKVtCGdEF2T0j8=",
+      "System.Text.Json.wasm": "sha256-n9W9BI1m0vc6MtWBPSus9VMAcV3FSfaCCrAC+NouysM=",
+      "System.Text.RegularExpressions.wasm": "sha256-OG/yHQJW3JRYcNjMmsvn1y/LD9W6csboQxYtpTvMxDs=",
+      "VortexVise.Core.wasm": "sha256-1lgxm+8Gyi7Wroc/9cX4kniakLmIv0ku9KkAGh3CD+w=",
+      "VortexVise.Web.wasm": "sha256-NVzNhZtS+TG/J0k7xxI823CMG++fs9Ywjqjpib7GGvw=",
+      "aot-instances.wasm": "sha256-F5jaGmVc7vzFjqtI3doCGKg/fQ7XiaS/ql2ej46UKTw="
+    },
+    "vfs": {
+      "Resources/Audio/FX//click.wav": {
+        "supportFiles/0_click.wav": "sha256-RJ9hGpIh8Y+BnS3S88O8mAoXawx8bRKXv7Vs5lb9qG4="
+      },
+      "Resources/Audio/FX//dash.wav": {
+        "supportFiles/1_dash.wav": "sha256-Ebbynugcwv07p9o4pQBkXnekx6RMvs0hjUkAbjGRw7s="
+      },
+      "Resources/Audio/FX//death3.ogg": {
+        "supportFiles/2_death3.ogg": "sha256-iT9NWsLOlt+fVdZjN+shjGy+CUYI/4qK59LGx5HIh74="
+      },
+      "Resources/Audio/FX//Drop.ogg": {
+        "supportFiles/3_Drop.ogg": "sha256-lqW+CGMTYEk7+0kMcM/wCXU0pNSMWtjBtv7XujIQSuc="
+      },
+      "Resources/Audio/FX//elastic.ogg": {
+        "supportFiles/4_elastic.ogg": "sha256-3EQVBPobuOpB3Ri9JbhDfdc6o0+FtP0ny9nr2zEHB2g="
+      },
+      "Resources/Audio/FX//empty_hook.ogg": {
+        "supportFiles/5_empty_hook.ogg": "sha256-/QGUyUBXJWs9Iw5iwthBHmToIeq8Oi9oo3KzlRDCSas="
+      },
+      "Resources/Audio/FX//explosion.ogg": {
+        "supportFiles/6_explosion.ogg": "sha256-o1m0IWV0d6aj2JJf1T7YbC0lakqQkiFvPNYVAIn2mZ0="
+      },
+      "Resources/Audio/FX//HighSpeedHit.ogg": {
+        "supportFiles/7_HighSpeedHit.ogg": "sha256-sfuUz+SituI23GaYhb/8WgkcfnFxdSu2BwxENVpMHCE="
+      },
+      "Resources/Audio/FX//hitmarker.ogg": {
+        "supportFiles/8_hitmarker.ogg": "sha256-Oxcv+tRDKe2E0/dpxxSGcgEMJWTS3yhSrI9occj9XdU="
+      },
+      "Resources/Audio/FX//hook_fire.ogg": {
+        "supportFiles/9_hook_fire.ogg": "sha256-mhBEw7++yfuX9oFw2KOhAJNACVz3TSw3Y+4HCKnsN8g="
+      },
+      "Resources/Audio/FX//hook_fire.wav": {
+        "supportFiles/10_hook_fire.wav": "sha256-nMwedgg/OP/wyIibfuPai6nII7RNNJ6mKd/U3F4/lQs="
+      },
+      "Resources/Audio/FX//hook_hit.ogg": {
+        "supportFiles/11_hook_hit.ogg": "sha256-0670C79amNd/dng2R4xNGGhNavhTpiv+NlkiLOQ+wZU="
+      },
+      "Resources/Audio/FX//hook_hit.wav": {
+        "supportFiles/12_hook_hit.wav": "sha256-cTmiXe+6wgwlcUxMrkTKoOvI0Dpqcwc7bgdWyDzcYpA="
+      },
+      "Resources/Audio/FX//hook_retract.ogg": {
+        "supportFiles/13_hook_retract.ogg": "sha256-YIokU5SE2mzFo9ejGODHqt/m6FPReQzZU2YNZqsefU4="
+      },
+      "Resources/Audio/FX//jetpack.ogg": {
+        "supportFiles/14_jetpack.ogg": "sha256-1qf2WH9Ftv7TayYiBtIMMfAPvG4wzGsf8CZnBa/vuVw="
+      },
+      "Resources/Audio/FX//jump.wav": {
+        "supportFiles/15_jump.wav": "sha256-ixGhPHL0KYRR4oxI/xv4HGZhDVgJTHzdfh+ZpQ91/KM="
+      },
+      "Resources/Audio/FX//kill.ogg": {
+        "supportFiles/16_kill.ogg": "sha256-xLGB1+CHUaWRIAL7EcGakxKSdAqJAgcD1XX2gVCcrAo="
+      },
+      "Resources/Audio/FX//metal_drop.wav": {
+        "supportFiles/17_metal_drop.wav": "sha256-urVKxHqjcROaPL7Ws+YX1QZKwe1B/oSMsGIJTJBqm+0="
+      },
+      "Resources/Audio/FX//Pistol.ogg": {
+        "supportFiles/18_Pistol.ogg": "sha256-U06oE4L7je+kITBiTz60cZ9/hsCD13BMd/OpvDNYyCY="
+      },
+      "Resources/Audio/FX//PlayerWindMomentum.ogg": {
+        "supportFiles/19_PlayerWindMomentum.ogg": "sha256-aajbA8PD+3xloECeLwy0ZjDpE2xosmPw7w5g/MAgXso="
+      },
+      "Resources/Audio/FX//selection.wav": {
+        "supportFiles/20_selection.wav": "sha256-GQGuYQ4VWSjkfILszC6xRgH7cCT8/A9uvl9GN/hq00c="
+      },
+      "Resources/Audio/FX//shotgun.ogg": {
+        "supportFiles/21_shotgun.ogg": "sha256-zUSridLIMJELpPO7mf8PZ7zWBG1uTCwtQy17vMoNfB8="
+      },
+      "Resources/Audio/FX//vinyl_scratch.ogg": {
+        "supportFiles/22_vinyl_scratch.ogg": "sha256-chGV9+lUQuVrzZqb5ksCnLWAsnHPQmB/cmw5QGRkdAs="
+      },
+      "Resources/Audio/FX//weapon_click.wav": {
+        "supportFiles/23_weapon_click.wav": "sha256-C/Q5reOqKCAOM8nWtA7R2WJpgavV4cLgUm/cEUkPMQM="
+      },
+      "Resources/Audio/Music//ambient.ogg": {
+        "supportFiles/24_ambient.ogg": "sha256-SUaN8BBH4bO7EnnXvI5yovJUZtfzCIxJtE8cmfJMXGY="
+      },
+      "Resources/Audio/Music//aqua.mp3": {
+        "supportFiles/25_aqua.mp3": "sha256-9ZlDshMHjVkFq3/FlND3Y3js+DLPj33NMMqCpzNcB8c="
+      },
+      "Resources/Audio/Music//beach.mp3": {
+        "supportFiles/26_beach.mp3": "sha256-i5PC83B+QtCShaIitInKzc899r1MYRM6M77OFTVmnjM="
+      },
+      "Resources/Audio/Music//bol.mp3": {
+        "supportFiles/27_bol.mp3": "sha256-MYGfP7dIsABY66IShaMCUnNHsCWfsxDYHlk5Iysk/oA="
+      },
+      "Resources/Audio/Music//mn5.mp3": {
+        "supportFiles/28_mn5.mp3": "sha256-WQlGJSqtsDpev5IFGNxhO9J/vA5+NHGn/UfhOsAeiuo="
+      },
+      "Resources/Audio/Music//NotGonnaLeoThis.mp3": {
+        "supportFiles/29_NotGonnaLeoThis.mp3": "sha256-wciwYm38SvLA09o4YMb4GnXFdnIg2L6IiR904A0Rh2c="
+      },
+      "Resources/Audio/Music//PixelatedDiscordance.mp3": {
+        "supportFiles/30_PixelatedDiscordance.mp3": "sha256-JLWsivbcqVu4+RPGNEafExyQb1cUkbRAX7O+U8a3h8s="
+      },
+      "Resources/Audio/Music//sd.mp3": {
+        "supportFiles/31_sd.mp3": "sha256-8QzsgMltRQ7usMB6faR/4B6s9uQmFv/f0YruTFWNzRs="
+      },
+      "Resources/Audio/Music//underwater.mp3": {
+        "supportFiles/32_underwater.mp3": "sha256-4Q2588bzVx4rTqhG0CD+VceV0Xe0dkatlA8vwX57VYA="
+      },
+      "Resources/Common//arrow.png": {
+        "supportFiles/33_arrow.png": "sha256-8/6c4NleRefzxV8WwFe+tNrjzuCppV9NWaQ+BTKxt70="
+      },
+      "Resources/Common//arrow_red.png": {
+        "supportFiles/34_arrow_red.png": "sha256-MRGMGF4BexnodFFC8ATxabb4GqlD7bIi1G+uNaO1XlA="
+      },
+      "Resources/Common//box.png": {
+        "supportFiles/35_box.png": "sha256-5i95xO9/nNFEmOP0U3JGZnMOQBa4mziXIwltFwNgNxA="
+      },
+      "Resources/Common//bullet.png": {
+        "supportFiles/36_bullet.png": "sha256-+0Va0M0LeTZfUWfgbefXXgxty5JgZQ2HBPisCDnq1ak="
+      },
+      "Resources/Common//cursor.png": {
+        "supportFiles/37_cursor.png": "sha256-fb+V4F6jK9FyOUPWS8B6i23RlCsmXN9NCSOZSmwTsN4="
+      },
+      "Resources/Common//death.png": {
+        "supportFiles/38_death.png": "sha256-6VGExRKsdWIGcHDV4JvkUpl54+4m5ftJvbNDm3EPDLA="
+      },
+      "Resources/Common//DeltaBlock.ttf": {
+        "supportFiles/39_DeltaBlock.ttf": "sha256-ns0g5+7o8rDbOa0LbKLZdAjsmF1TrGsyNuLO8yhaKIk="
+      },
+      "Resources/Common//DeltaBlockItalic.ttf": {
+        "supportFiles/40_DeltaBlockItalic.ttf": "sha256-6dQeaHN9AICkDC8RRA7fkfjlW0Zix07HoJhGRAaS0rk="
+      },
+      "Resources/Common//fire.png": {
+        "supportFiles/41_fire.png": "sha256-klWk7MpWg50QpdoP1cvA08nirS6j1RsgSiEyyWwVJoU="
+      },
+      "Resources/Common//gamepad_slot_off.png": {
+        "supportFiles/42_gamepad_slot_off.png": "sha256-4oy7HMFWsJwusupZHXQi794MIkQoy6VS90LVmBzXSQA="
+      },
+      "Resources/Common//gamepad_slot_on.png": {
+        "supportFiles/43_gamepad_slot_on.png": "sha256-6771sDeaiZVrTQ4WZeKMrr9Xrk2vSZm9sLfQ0+tHF5s="
+      },
+      "Resources/Common//hud_border.png": {
+        "supportFiles/44_hud_border.png": "sha256-arvmo5MqA38QkbNRHyvmJQQ7U3fisrTfG15aNn6AibE="
+      },
+      "Resources/Common//keyboard.png": {
+        "supportFiles/45_keyboard.png": "sha256-pwCXpX0kWSCQ99sNwTwVUckpyQKuR6WLNfI66LAJj78="
+      },
+      "Resources/Common//kill.png": {
+        "supportFiles/46_kill.png": "sha256-33FMYp0KFuDScQwGQBwDDCAeylljlw945y5CeVe/P1I="
+      },
+      "Resources/Common//kill_confirmed.png": {
+        "supportFiles/47_kill_confirmed.png": "sha256-Z9l9pCPJ6Vb2x58f1SUgc+dKH6R8TeP4d6C4z1IX/6Q="
+      },
+      "Resources/Common//kill_feed_background.png": {
+        "supportFiles/48_kill_feed_background.png": "sha256-ENHQv0AATTpiwDzDzw0E5898T5S65bMUQ9RMEGGXc5s="
+      },
+      "Resources/Common//mecha.png": {
+        "supportFiles/49_mecha.png": "sha256-zYuVOdAip9X1MHbfnztI1om84djSAmSCjXbZQyWttRk="
+      },
+      "Resources/Common//MenuBackground.png": {
+        "supportFiles/50_MenuBackground.png": "sha256-PyvuzWjYxYlmHygpSMyuFyYKR9hAD/ZQevah7sZzyWg="
+      },
+      "Resources/Common//rounded_box.png": {
+        "supportFiles/51_rounded_box.png": "sha256-BigJLipOr+KUI6z2Pw8KyZKbxnIJdtdKZJ3NgKorzn4="
+      },
+      "Resources/Common//selection_square.png": {
+        "supportFiles/52_selection_square.png": "sha256-4u+4YfnxsXE3FLEUAavLg0+heepCINuTTCI0KxEtsOE="
+      },
+      "Resources/Common//thin_bar_blue.png": {
+        "supportFiles/53_thin_bar_blue.png": "sha256-Xrux8Hg/wVd7sTUZuBVGlY+vpHrGtOsUSLVEkPOa2+w="
+      },
+      "Resources/Common//thin_bar_empty.png": {
+        "supportFiles/54_thin_bar_empty.png": "sha256-zPGYkI0W8v7QpY1iGpOpop61zLzVP2q5KDHHmFz3VY0="
+      },
+      "Resources/Common//thin_bar_orange.png": {
+        "supportFiles/55_thin_bar_orange.png": "sha256-KQ0h/vRPl1Pij1WLE6Ep3JUslp4tV/pcwabJtcD13qU="
+      },
+      "Resources/Common//vortex-vise-logo.png": {
+        "supportFiles/56_vortex-vise-logo.png": "sha256-uVA60vmHBHC70jj9haSyHGTmJfme8UZdqazhmMPmZxQ="
+      },
+      "Resources/Common//wide_bar_empty.png": {
+        "supportFiles/57_wide_bar_empty.png": "sha256-la/NCuPKZvl2FuaMThq34sfgf2yUOnYBcexzwt5W5ps="
+      },
+      "Resources/Common//wide_bar_green.png": {
+        "supportFiles/58_wide_bar_green.png": "sha256-B2iZ/QklF1cwMb0Nen6hIgo6WiP/xdCxFS8YMTIvKcY="
+      },
+      "Resources/Common//wide_bar_red.png": {
+        "supportFiles/59_wide_bar_red.png": "sha256-mHxv7CIzfCB2Iy84cVuu/Z1mJCIDO4C2WOqtXA7QTVI="
+      },
+      "Resources/Common//xbox_gamepad.png": {
+        "supportFiles/60_xbox_gamepad.png": "sha256-BnKuAYYSvb3vhqTlECLBk7J1E1Q7ilU/+MCm4ghvQfU="
+      },
+      "Resources/Common//xbox_gamepad_disconnected.png": {
+        "supportFiles/61_xbox_gamepad_disconnected.png": "sha256-88jN8NMynNV+2CxJeMAMEpXs5ireww+zv3TLK2awbcY="
+      },
+      "Resources/Maps//CogsworthCitadel.json": {
+        "supportFiles/62_CogsworthCitadel.json": "sha256-jmuboLEES7YnIiDd5BJkX0ZdqCEvbtGbfb+kuvFG4hI="
+      },
+      "Resources/Maps//CogsworthCitadel.png": {
+        "supportFiles/63_CogsworthCitadel.png": "sha256-fvoho3xH+C5ibCXqfoL05JdosX1nAp8CU0ayXICxQxU="
+      },
+      "Resources/Maps//ColossalConstruction.json": {
+        "supportFiles/64_ColossalConstruction.json": "sha256-TNkTgvNckiud4TVi/YH4c4iB3xNzKhvzWVHEochaNEk="
+      },
+      "Resources/Maps//ColossalConstruction.png": {
+        "supportFiles/65_ColossalConstruction.png": "sha256-bYS9hELeZdShnaaLkquXacXS6XFcG2L5YENI7AMLKVE="
+      },
+      "Resources/Maps//CookhouseShootout.json": {
+        "supportFiles/66_CookhouseShootout.json": "sha256-sGczwSnn7PMARMQjSQe+sugk1FcsMcv5Y6C92V+CJR8="
+      },
+      "Resources/Maps//CookhouseShootout.png": {
+        "supportFiles/67_CookhouseShootout.png": "sha256-rYvLqHcZWNU1Ncr0CuomYU7br/HwdXp42ONAUCiUC4M="
+      },
+      "Resources/Maps//CyberneticArena.json": {
+        "supportFiles/68_CyberneticArena.json": "sha256-sj1pgtO9nHkYbFhV/XF0ElZ6sITIxTpBgRdYMf5Hu8A="
+      },
+      "Resources/Maps//CyberneticArena.png": {
+        "supportFiles/69_CyberneticArena.png": "sha256-hiECuQRUcvsGA0OTcDHELr7RAtVc67/WuRl0uHwhlko="
+      },
+      "Resources/Maps//IndustrialInferno.json": {
+        "supportFiles/70_IndustrialInferno.json": "sha256-ZV4FHn89QRaIlz0WcLNX4QYsBuilTwRrR2r28lTSjDk="
+      },
+      "Resources/Maps//IndustrialInferno.png": {
+        "supportFiles/71_IndustrialInferno.png": "sha256-zf2AZGD9MoiXDOldXG8GmUWQWNUJ93PyV7/xsNFYxlI="
+      },
+      "Resources/Maps//RusticRanch.png": {
+        "supportFiles/72_RusticRanch.png": "sha256-smYKdY5PpinbZW0gXZpOPRyG9aXfRegYeoDK//Fwb44="
+      },
+      "Resources/Maps//Sketchbook.json": {
+        "supportFiles/73_Sketchbook.json": "sha256-YzmuV+6nw+zhI2wGfnGhUlPlgNGEHLSmvrXmZMnr1A0="
+      },
+      "Resources/Maps//Sketchbook.png": {
+        "supportFiles/74_Sketchbook.png": "sha256-UuPH4jJ2YehPy/219dz4AAA5lH2gFn7L0cv5v+OFWfI="
+      },
+      "Resources/Maps//SkyArchipelago.json": {
+        "supportFiles/75_SkyArchipelago.json": "sha256-asfHRaSYr48U0PdxyIdvNvWs3B8ow9+9m+euIYua/C8="
+      },
+      "Resources/Maps//SkyArchipelago.png": {
+        "supportFiles/76_SkyArchipelago.png": "sha256-ddvPZ50uE9iw3G7c7Iik8g+sS3X0rU/lv802H0Ugy9A="
+      },
+      "Resources/Maps//SunkenSerenity.json": {
+        "supportFiles/77_SunkenSerenity.json": "sha256-kFM23M5wh7yisLwXqaS2YvKPJGTZkuLZgR+xCDyMFyI="
+      },
+      "Resources/Maps//SunkenSerenity.png": {
+        "supportFiles/78_SunkenSerenity.png": "sha256-rn8BVrcOIOYU+IoH6f7ifzfcq+L0tI996JM9AdbJPTk="
+      },
+      "Resources/Maps//TheSubmergedFrontier.json": {
+        "supportFiles/79_TheSubmergedFrontier.json": "sha256-25+xp13gSZuGaxtJVwcFTh8g74nD5vw71V8sIDrpPy8="
+      },
+      "Resources/Maps//TheSubmergedFrontier.png": {
+        "supportFiles/80_TheSubmergedFrontier.png": "sha256-XZh1fhdqnYRpUePNyYhwfkSzbRXBu0jLheNlDheJmb8="
+      },
+      "Resources/Maps//Tower.json": {
+        "supportFiles/81_Tower.json": "sha256-qSD2sRE9g9y7+1sVyT1oqoUwvkua31CfCbo6e0jJwrc="
+      },
+      "Resources/Maps//Tower.png": {
+        "supportFiles/82_Tower.png": "sha256-659f7rxogaZLIfNR1DnjNHL5Ibz/UVJqXKi/Ik3zXD4="
+      },
+      "Resources/Maps//WindowsXP.json": {
+        "supportFiles/83_WindowsXP.json": "sha256-kaU3MFQkYmTVUsQQOYnL0MIKS3KcmR5NsIY5DMrVr6Y="
+      },
+      "Resources/Maps//WindowsXP.png": {
+        "supportFiles/84_WindowsXP.png": "sha256-XLbwAaUClt3sV0Qq3OCjBVHqBk4hilOZ7gdgB3kOtlg="
+      },
+      "Resources/Maps//WitchingSkyline.json": {
+        "supportFiles/85_WitchingSkyline.json": "sha256-oW7KWuzMIzMN9QoNbYXtMBCNgFlX9oU98sFUZSit9W0="
+      },
+      "Resources/Maps//WitchingSkyline.png": {
+        "supportFiles/86_WitchingSkyline.png": "sha256-mlL2I0OXGYMG0MLKstXqmmZbN5zuxCRpytjHGbAFdzk="
+      },
+      "Resources//Servers.json": {
+        "supportFiles/87_Servers.json": "sha256-C5/l0WjoaO/rn4sqXwFTZfGIIhHJ1V1W91vfAqjgaMA="
+      },
+      "Resources/Skins//afatso.png": {
+        "supportFiles/88_afatso.png": "sha256-Hd3k6MLNtShShQcDRwXzw+WjnQPQQBduElmt4Mrz544="
+      },
+      "Resources/Skins//bulldude.png": {
+        "supportFiles/89_bulldude.png": "sha256-X017twthyUzMTVH7OA+KmYA8AFaFuFCr93UXc17KPh0="
+      },
+      "Resources/Skins//cowman.png": {
+        "supportFiles/90_cowman.png": "sha256-1lms/DyvlaHRywGGg4EOljbjAQUE0joR6gKQXUhbl3U="
+      },
+      "Resources/Skins//doctor.png": {
+        "supportFiles/91_doctor.png": "sha256-Iyl5PRroH9WIkaxblZ5FMaKnS2Nm/tsrD8uOCoWK3XM="
+      },
+      "Resources/Skins//ghost.png": {
+        "supportFiles/92_ghost.png": "sha256-3twQ5pSRTijppVXA3Bxf48VNKZYdJJ1HPFOn6HrmeXc="
+      },
+      "Resources/Skins//mage.png": {
+        "supportFiles/93_mage.png": "sha256-xCEUUC6gQz8K9HqB+CB9Bq2mc6weY/1YCDAn04fqRhI="
+      },
+      "Resources/Skins//teddy.png": {
+        "supportFiles/94_teddy.png": "sha256-XyN4o92x31SssenmW+flqKp97gC7gDT2cwQUCebP8/c="
+      },
+      "Resources/Sprites/GFX//death.png": {
+        "supportFiles/95_death.png": "sha256-xpzIaVU42GDSQVJWw+DSEK5WZij+qY1Grnl9g1cVnAI="
+      },
+      "Resources/Sprites/GFX//explosion.png": {
+        "supportFiles/96_explosion.png": "sha256-cJgY1NA73wNnDmNwT3R0yFg1QvvSLo81mlgeBEvGJis="
+      },
+      "Resources/Sprites/GFX//hitmarker.png": {
+        "supportFiles/97_hitmarker.png": "sha256-+yItU4Bbv6FQyymBt1H1/PSGK0XhrgEKMro3v1jXk28="
+      },
+      "Resources/Sprites/GFX//hook.png": {
+        "supportFiles/98_hook.png": "sha256-bROHUyatXlyFRxQYN4IsUf7jb4+7WVzeBrzHdXbkll8="
+      },
+      "Resources/Weapons//baseball_bat.png": {
+        "supportFiles/99_baseball_bat.png": "sha256-IMiS+K/0f8Ne6pGuS55ZP/8WNSyltOoEfZGQ091KaI4="
+      },
+      "Resources/Weapons//heath_pack.png": {
+        "supportFiles/100_heath_pack.png": "sha256-OYte91HTP3VpHUGL2U2YaBBPgoN1dkeaf1I+eVwZjjc="
+      },
+      "Resources/Weapons//knife.png": {
+        "supportFiles/101_knife.png": "sha256-38MpZ4a2Q6ITWFQmRNG1IM758FuUJnttPVjn/cbiS+c="
+      },
+      "Resources/Weapons//molotov.png": {
+        "supportFiles/102_molotov.png": "sha256-x8Ff1R2ok0crhBFWbWVN55OJZ+gHJnodeReVr29Xevg="
+      },
+      "Resources/Weapons//RegularBullet.png": {
+        "supportFiles/103_RegularBullet.png": "sha256-Gzh7zK0WoNV1uKPMqcxDkNB9qIgpORpslt74oWiz8p4="
+      },
+      "Resources/Weapons//shotgun.png": {
+        "supportFiles/104_shotgun.png": "sha256-2QHQAKnZ/3gGGb7Fo1fc1v/lQUfVDpg/YMlxHZyjO0A="
+      },
+      "Resources/Weapons//Weapons.ini": {
+        "supportFiles/105_Weapons.ini": "sha256-WbX0n7apDwj6ndU9n9vzhlnNOhGJJgXF1H4NsA0Hcw4="
+      },
+      "runtimeconfig.bin": {
+        "supportFiles/106_runtimeconfig.bin": "sha256-oWJ0G2/P0I/7sOrWS2U9Vj8e0/zTdvr7d0OPfwDf6xM="
+      }
+    }
+  },
+  "debugLevel": 0,
+  "globalizationMode": "invariant"
+}
