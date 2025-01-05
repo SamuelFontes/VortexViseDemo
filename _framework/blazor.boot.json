@@ -1,15 +1,15 @@
 {
   "mainAssemblyName": "VortexVise.Web.dll",
   "resources": {
-    "hash": "sha256-sNA5CQU0yASIAujydkjPzMudz7O6a6qY7pxTOfIofII=",
+    "hash": "sha256-DW72nct3jpT7A8/WeVsRByOKwRvqnJTmhm6zH+XCzPg=",
     "jsModuleNative": {
-      "dotnet.native.js": "sha256-LJVzMwGCFvl2kT+SkxvbTj8/H8x5DC/Uo9eI0T1AgBE="
+      "dotnet.native.js": "sha256-dcXtikCdCv7cGCRY7eJRNx80m7oE1rgk7sDt4XA5S5Y="
     },
     "jsModuleRuntime": {
       "dotnet.runtime.js": "sha256-nam8JTYKjhMKOTg6+FlihYP6JpWPGe3jjM9fiUFWzhY="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-yo4eO8qLjCKAumM0ID3HnNMh/WTNYwdhLDtNyWcaPLA="
+      "dotnet.native.wasm": "sha256-R8NrW+zu50EVI9O5ebBBP0Pf4oUlicSGd0Pw4AlcHfo="
     },
     "assembly": {
       "Raylib-cs.wasm": "sha256-k4EJNAZEYyi97MpXlVObptQtU6vGzicJ2dspOhT54Ps=",
@@ -32,7 +32,7 @@
       "System.Text.Json.wasm": "sha256-n9W9BI1m0vc6MtWBPSus9VMAcV3FSfaCCrAC+NouysM=",
       "System.Text.RegularExpressions.wasm": "sha256-OG/yHQJW3JRYcNjMmsvn1y/LD9W6csboQxYtpTvMxDs=",
       "VortexVise.Core.wasm": "sha256-ocHBhvjm75uX9CJKxFkEdoobdhlvSNwPbBAcLGP3zGo=",
-      "VortexVise.Web.wasm": "sha256-I1MDduvRPfvX6/P5lJ3IwU/Wj1DrpCjdDG+s+QeMRUE=",
+      "VortexVise.Web.wasm": "sha256-3J89fytvWWXOzBOQiI9Mn6vqv8Ulhhq4NdwBRcsTXN0=",
       "aot-instances.wasm": "sha256-F5jaGmVc7vzFjqtI3doCGKg/fQ7XiaS/ql2ej46UKTw="
     },
     "vfs": {
